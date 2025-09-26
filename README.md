@@ -1,12 +1,13 @@
 
- 📚 Library Management System (Java OOP Project)
+ # Library Management System
+ ----(Java OOP Project)
 
- 🎯 Objective
+ # Objective
 
 This project is part of the *Java Developer Internship Task 3*.
 The aim is to build a **mini Library Management System** using **Object-Oriented Programming (OOP)** principles in Java.
 
-It demonstrates key OOP concepts:
+# It demonstrates key OOP concepts:
 
 * **Encapsulation** – private fields with getters/setters
 * **Abstraction** – Library hides internal details
@@ -19,7 +20,7 @@ It demonstrates key OOP concepts:
 
 ---
 
- ✅ Implemented Features
+ # Implemented Features
 
 * Add books
 * Display available books
@@ -35,7 +36,7 @@ This project consists of four Java files:
 * `Main.java`
 
 
- 📂 Project Structure
+ # Project Structure
 
 
 LibraryManagement/
@@ -45,7 +46,7 @@ LibraryManagement/
 └── Main.java
 
 
- 🚀 System Capabilities
+ # System Capabilities
 
 * Add new books to the library
 * View available books
@@ -53,7 +54,7 @@ LibraryManagement/
 * Return issued books
 * Maintain records of books issued per user
 
- ▶ Running the Program
+ # Running the Program
 
 1. Clone or download the project
 2. Open a terminal in the project directory
@@ -70,7 +71,7 @@ LibraryManagement/
 
 ---
 
-📋 Sample Console Output
+# Sample Console Output
 
 --- Library Menu ---
 1. Show available books
@@ -104,11 +105,11 @@ Book returned: Java Basics by James Gosling (Available)
 Enter choice: 5
 Exiting... Thank you!
 
-🎓 Key Learning Outcomes
+# Key Learning Outcomes
 
 By completing this project, you will:
 
-* Strengthen your understanding of OOP in Java
-* Gain experience in working with multiple classes
-* Practice building console-based interactive applications
+-- Strengthen your understanding of OOP in Java
+-- Gain experience in working with multiple classes
+-- Practice building console-based interactive applications
 
